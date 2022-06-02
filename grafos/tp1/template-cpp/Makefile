@@ -9,4 +9,6 @@ run: build
 test:
 	./run.sh input.txt output.txt # output vai ser gerado
 
+clean: 
+	stty sane
 #./build.sh # se der problema use chmod 777 build.sh
