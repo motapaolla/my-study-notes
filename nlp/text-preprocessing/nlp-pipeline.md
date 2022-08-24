@@ -1,6 +1,6 @@
 # NLP - Text Classification
 
-The process of text classification includes four steps: 
+The pipeline of text classification follows the pipelin: 
 1. document preprocessing,
 2. feature selection, 
 3. feature extraction and 
