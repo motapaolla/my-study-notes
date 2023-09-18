@@ -9,7 +9,7 @@ $ conda update conda
 ### Create a virtual environment
 
 ```
-$ conda create -n yourenvname python=x.x anaconda
+$ conda create -n yourenvname python=x.x 
 ```
 
 ### List environments

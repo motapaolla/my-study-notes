@@ -52,7 +52,7 @@ the different associations between pieces of text, and that a particular output
 (i.e., tags) is expected for a particular input (i.e., text). A “tag” is the 
 pre-determined classification or category that any given text could fall into.
 
-The pipeline of text classification follows the pipelin: 
+The pipeline of text classification usually is as follows: 
 1. document preprocessing,
 2. feature selection, 
 3. feature extraction and 
